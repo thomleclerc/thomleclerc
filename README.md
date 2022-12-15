@@ -1,7 +1,7 @@
 <h2> Hi, I'm Thomas! </h2>
 <p><em>Developer Consultant at <a href="https://kumojin.com/">Kumojin</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</br>Graduted in computer science at <a href="https://www.cegeplevis.ca/">Cégep de Lévis-Lauzon</a><img src="https://media4.giphy.com/media/cklRuRrKGTT3eeeajp/giphy.gif?cid=ecf05e4790bwdegzdh4wk699s3f52ps9oba2rjpf1ogdjzs5&rid=giphy.gif" width="30"></em></p>
+</br>Graduated in computer science at <a href="https://www.cegeplevis.ca/">Cégep de Lévis-Lauzon</a><img src="https://media4.giphy.com/media/cklRuRrKGTT3eeeajp/giphy.gif?cid=ecf05e4790bwdegzdh4wk699s3f52ps9oba2rjpf1ogdjzs5&rid=giphy.gif" width="30"></em></p>
 
 <!--
 **thomleclerc/thomleclerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
